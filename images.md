@@ -13,4 +13,8 @@ layout: default
 
 ![Image](pictures/baldpakistani.jpg)  
 
+![Image](pictures/nairobi.jpeg)  
+
+![Image](pictures/pearl.jpeg)
+
 
