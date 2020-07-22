@@ -10,8 +10,8 @@ This is a joint webpage of bebe and bebe-shebe.
 
 [Link to Images Page](./images.html).
 
- yo   
- $$ \sum_{i=1}^n $$
+ ### An Equation to Describe Bebe
+ Statistics $ + $ Linear Albegra $ + ... = $ Awesome $ + $ cool $^n$  
  
 
  ![Image](sleepy.jpeg)
