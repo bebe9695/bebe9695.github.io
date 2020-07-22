@@ -11,3 +11,6 @@ layout: default
 
 ![Gif](https://media.giphy.com/media/sBt1KJpU8FPdm/giphy.gif)  
 
+![Image](pictures/baldpakistani.jpg)  
+
+
