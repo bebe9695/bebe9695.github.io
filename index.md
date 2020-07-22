@@ -4,6 +4,8 @@ This is a joint webpage of bebe and bebe-shebe.
 
 [Link to Images Page](./images.html).
 
+$$ \sum_{i=1}^n  $$
+
  ![Image](sleepy.jpeg)
  
  <dl>
