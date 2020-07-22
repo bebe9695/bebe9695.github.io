@@ -3,8 +3,8 @@
 This is a joint webpage of bebe and bebe-shebe.  
 
 
- ![Image](/images/sleepy.jpeg)
-
+ ![Image](sleepy.jpeg)
+ 
  <dl>
   <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fseerlight%2Fvideos%2F2758646667698539%2F&show_text=0&width=380" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>  
  </dl>
@@ -16,7 +16,7 @@ color_map = []
 for node in G:
     if node < 10:
         color_map.append('blue')
-    else:
+    else: 
         color_map.append('green')      
 nx.draw(G, node_color=color_map, with_labels=True)
 plt.show()
