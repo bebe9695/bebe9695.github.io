@@ -18,6 +18,8 @@ layout: default
 
 ![Image](pictures/pearl.jpeg)  
 
+![Image](pictures/maleficent.jpg)  
+
 
 
 
