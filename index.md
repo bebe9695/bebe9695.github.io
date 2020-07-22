@@ -12,7 +12,7 @@ This is a joint webpage of bebe and bebe-shebe.
 
 ### An Equation to Describe Bebe  
  
- Statistics $ + $ Linear Albegra $ + ... = $ Awesome $ + $ cool $^n$  
+ Statistics $ + $ Linear Algebra $ + ... = $ Awesome $ + $ (Cool)$^n$  
  
 
  ![Image](sleepy.jpeg)
