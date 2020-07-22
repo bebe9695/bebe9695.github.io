@@ -2,6 +2,7 @@
 
 This is a joint webpage of bebe and bebe-shebe.  
 
+[Link to Images Page](./images.html).
 
  ![Image](sleepy.jpeg)
  
