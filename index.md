@@ -1,6 +1,11 @@
 ## Welcome to the Bebe World
 
 This is a joint webpage of bebe and bebe-shebe.  
+
+<dl>
+ <img src="sleepy.jpeg" width="425"/> <img src="lovely.jpeg" width="425"/> 
+</dl>
+
  ![Image](sleepy.jpeg) ![Image](lovely.jpeg)
  
  <dl>
