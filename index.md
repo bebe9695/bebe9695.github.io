@@ -6,17 +6,12 @@ mathjax: true
 
 ## Welcome to the Bebe World
 
-This is a joint webpage of bebe and bebe-shebe.  
 **Statistics $ + $ Linear Algebra $ + ... = $ Awesome $ + $ (Cool)$^n$**  
-**\#NetBioMed**
+**\#NetBioMed**  
 
 
-[Link to Images Page](./images.html).  
-
-### An Equation to Describe Bebe  
+[Link to Images Page](./images.html).   
  
- 
-
  ![Image](sleepy.jpeg)
  
  <dl>
