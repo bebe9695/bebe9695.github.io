@@ -10,7 +10,8 @@ This is a joint webpage of bebe and bebe-shebe.
 
 [Link to Images Page](./images.html).
 
- yo $$ \sum_{i=1}^n$
+ yo   
+ $$ \sum_{i=1}^n $$
  
 
  ![Image](sleepy.jpeg)
