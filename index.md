@@ -1,7 +1,7 @@
 ## Welcome to the Bebe World
 
 This is a joint webpage of bebe and bebe-shebe.  
- ![Image](sleepy.png)
+ ![Image](sleepy.jpeg)
 
 ```markdown
 G = nx.erdos_renyi_graph(20, 0.1)
