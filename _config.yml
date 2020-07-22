@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: [Bebe]
 description: [The World of Bebe and Bebe-Shebe]
 logo: /logo.png
+mathjax: true
+
