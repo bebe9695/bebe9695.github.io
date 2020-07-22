@@ -1,10 +1,16 @@
+---
+layout: default
+mathjax: true
+---
+
+
 ## Welcome to the Bebe World
 
 This is a joint webpage of bebe and bebe-shebe.  
 
 [Link to Images Page](./images.html).
 
- yo 
+ yo $$ \sum_{i=1}^n$
  
 
  ![Image](sleepy.jpeg)
