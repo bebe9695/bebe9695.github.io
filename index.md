@@ -8,9 +8,10 @@ mathjax: true
 
 This is a joint webpage of bebe and bebe-shebe.  
 
-[Link to Images Page](./images.html).
+[Link to Images Page](./images.html).  
 
- ### An Equation to Describe Bebe
+### An Equation to Describe Bebe  
+ 
  Statistics $ + $ Linear Albegra $ + ... = $ Awesome $ + $ cool $^n$  
  
 
