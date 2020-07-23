@@ -1,5 +1,6 @@
 ---
 layout: default
+navigation: true
 ---
 
 ## Welcome to Images Page

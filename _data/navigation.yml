@@ -1,5 +1,6 @@
-main:
-  - title: "Images"
-    url: /images.html
-  - title: "Home"
-    url: /
+- title: "Images"
+  url: /images
+- title: "Home"
+  url: /
+- title: "Moira"
+  url: https://www.youtube.com/watch?v=PCLxZyTCw1k
