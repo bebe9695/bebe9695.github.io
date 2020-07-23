@@ -9,8 +9,6 @@ mathjax: true
 **Statistics $ + $ Linear Algebra $ + ... = $ Awesome $ + $ (Cool)$^n$**  
 **\#NetBioMed**  
 
-
-[Link to Images Page](./images.html).   
  
  ![Image](sleepy.jpeg)
  
