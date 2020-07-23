@@ -1,3 +1,5 @@
 main:
   - title: "Images"
-    url: /images.html/
+    url: /images.html
+  - title: "Home"
+    url: /
