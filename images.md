@@ -10,6 +10,8 @@ layout: default
 
 ![Image](pictures/lovely.jpeg)  
 
+![Image](pictures/spidermanfuckoff.jpg)  
+
 ![Gif](https://media.giphy.com/media/sBt1KJpU8FPdm/giphy.gif)  
 
 ![Image](pictures/baldpakistani.jpg)  
@@ -19,6 +21,10 @@ layout: default
 ![Image](pictures/pearl.jpeg)  
 
 ![Image](pictures/maleficent.jpg)  
+
+![Image](pictures/themask.jpg)  
+
+![Image](pictures/ambaniangry.jpeg)
 
 
 
