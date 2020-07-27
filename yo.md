@@ -1,3 +1,8 @@
+---
+layout: default
+navigation: true
+---
+
 # Meeting :date: 27-July-2020
 
 ###### tags: `Tag(change me!)`
