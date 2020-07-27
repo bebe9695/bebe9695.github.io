@@ -6,7 +6,11 @@ navigation: true
 ## Welcome to Images Page
 ### We post here funny/cute images over time  
 
+![Image](pictures/bebework.jpeg)  
+
 ![Gif](https://media.giphy.com/media/C9LrjUYoJ5OBu0eQqE/giphy.gif)  
+
+![Image](pictures/dudeopinion.jpeg)  
 
 ![Image](pictures/lovely.jpeg)  
 
@@ -25,7 +29,3 @@ navigation: true
 ![Image](pictures/themask.jpg)  
 
 ![Image](pictures/ambaniangry.jpeg)
-
-
-
-
